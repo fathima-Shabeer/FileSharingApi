@@ -1,0 +1,7 @@
+@FileSharingApi_HostAddress = http://localhost:5008
+
+
+dotnet new webapi -n FileSharingApi -o FileSharingApi --no-minimal-api
+cd FileSharingApi
+
+###
